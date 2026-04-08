@@ -11,13 +11,39 @@
 <img width="799" height="568" alt="image" src="https://github.com/user-attachments/assets/a1e952fe-def7-443e-a84b-c501153c72e3" />
 <img width="831" height="356" alt="image" src="https://github.com/user-attachments/assets/867e75f5-43f2-408f-b6fb-ed6b909db367" />
 
-
+ 
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
 
 ## MODEL GRAPH
+ANALYSIS OF MALFUNCTIONING RECTIFIER CIRCUIT.md
+ANALYSIS OF MALFUNCTIONING RECTIFIER CIRCUIT.md
+5 months ago
+DESIGN A REGULATED POWER SUPPLY CIRCUIT USING A VOLTAGE REGULATOR IC USING LTSPICE.md
+DESIGN A REGULATED POWER SUPPLY CIRCUIT USING A VOLTAGE REGULATOR IC…
+5 months ago
+DESIGN OF WEIN BRIDGE OSCILLATOR.md
+DESIGN OF WEIN BRIDGE OSCILLATOR using LT SPICE.md
+5 months ago
+FREQUENCY RESPONSE OF COMMON EMITTER AMPLIFIER USING LT SPICE .md
+FREQUENCY RESPONSE OF COMMON EMITTER AMPLIFIER USING LT SPICE .md
+5 months ago
+FREQUENCY RESPONSE OF COMMON SOURCE FET AMPLIFIER.md
+FREQUENCY RESPONSE OF COMMON SOURCE FET AMPLIFIER.md
+5 months ago
+FULL-WAVE RECTIFIERS USING TINKERCAD .md
+FULL-WAVE RECTIFIERS USING TINKERCAD .md
+5 months ago
+HALF-WAVE RECTIFIER USING TINKER CAD .md
+HALF-WAVE RECTIFIER USING TINKER CAD .md
+5 months ago
+TROUBLE SHOOTING CE AMPLIFIER.md
+TROUBLE SHOOTING CE AMPLIFIER.md
+5 months ago
+Repository files navigation
+README
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
